@@ -18,11 +18,12 @@ This project is a conversational assistant built using LangGraph, Gemini models,
 - Requests (API calls)
 
 ## File Structure
+```
 project/
 │ frontend.py # Streamlit interface
 │ backend.py # Chat logic and tool definitions
 │ requirements.txt # Dependencies
-
+```
 
 ## Setup Instructions
 1. Install dependencies:
