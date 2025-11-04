@@ -2,6 +2,9 @@
 
 This project is a conversational assistant built using LangGraph, Gemini models, and Streamlit. It supports multiple tools such as weather lookup, stock price retrieval, basic math calculation, time zone conversion, currency conversion, random facts, and jokes. The assistant maintains conversation history using a SQLite checkpointer and allows switching between multiple conversation threads.
 
+## Deployed Version link
+Here is the deployed web link https://tool-integrated-agent-gpt.streamlit.app/
+
 ## Features
 - Stateful conversational memory using SQLite.
 - Tool execution based on user intent.
