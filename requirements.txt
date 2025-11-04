@@ -5,6 +5,7 @@ langchain-core>=0.3.0
 langchain-community>=0.3.0
 langchain-google-genai>=2.0.0
 duckduckgo-search>=6.2.13
+ddgs
 requests>=2.31.0
 pytz>=2024.1
 python-dotenv>=1.0.1
